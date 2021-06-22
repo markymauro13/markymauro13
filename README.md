@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Marks's GitHub stats](https://github-readme-stats.vercel.app/api?username=markymauro13&theme=tokyonight)](https://github.com/markymauro13/github-readme-stats)
+[![Marks's GitHub stats](https://github-readme-stats.vercel.app/api?username=markymauro13&show_icons=true&theme=tokyonight)](https://github.com/markymauro13/github-readme-stats)
 
 <!--
 **markymauro13/markymauro13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
