@@ -2,7 +2,7 @@
 
 - Junior Computer Science Student at Montclair State University 🦅 
 - Currently building [quarterasian.com](https://www.quarterasian.com/) & [ajmwatercolors.com](http://www.ajmwatercolors.com/) 🎨
-- Information Technology Intern @ FedEx Services Summer 2021 📦
+- Software Developer Intern @ FedEx Services Summer 2021 📦
 
 ### I love ... 💘
 
