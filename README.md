@@ -7,7 +7,7 @@
 ### I love ... 💘
 
 - Mathematics 📚
-- Full Stack Web Apps 🖥
+- Full Stack Web/Mobile Apps 🖥
 - Multimedia Computing 🤹‍♂️
 - Fútbol ⚽
 
