@@ -1,9 +1,9 @@
 ### Hey I'm Mark! 👋
 ![](https://komarev.com/ghpvc/?username=markymauro13&color=blueviolet)
 - Junior Computer Science Student at Montclair State University 🦅 
-- Currently building [quarterasian.com](https://www.quarterasian.com/) & [ajmwatercolors.com](http://www.ajmwatercolors.com/) 🎨
+<!-- - Currently building [quarterasian.com](https://www.quarterasian.com/) & [ajmwatercolors.com](http://www.ajmwatercolors.com/) 🎨 -->
 - Incoming Software Developer Intern @ PwC Summer 2022 💼
-- Past: Software Developer Intern @ FedEx Services Summer 2021 📦
+
 
 ### I love ... 💘
 
