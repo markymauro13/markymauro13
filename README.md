@@ -7,7 +7,7 @@
 - Mathematics 📚
 - Full Stack Web/Mobile Apps 🖥
 - Fashion/Streaming/Entertainment Development 🤹‍♂️
-- Cloud Computing/Serverless Architecture/SaaS
+- Cloud Computing/Serverless Architecture/SaaS ☁️
 
 ### My stats ✌
 [![Marks's GitHub stats](https://github-readme-stats.vercel.app/api?username=markymauro13&show_icons=true&theme=tokyonight)](https://github.com/markymauro13/github-readme-stats)
