@@ -1,10 +1,9 @@
 ### Hey I'm Mark! 👋
 ![](https://komarev.com/ghpvc/?username=markymauro13&color=blueviolet)
-- Junior Computer Science Student @ Montclair State University 🦅 
-- Incoming Software Developer Intern @ Abercrombie & Fitch Co 💼
+- Senior Computer Science Student @ Montclair State University 🦅 
+- Infrastructure Engineer Intern @ Abercrombie & Fitch Co 💼
 
 ### I love ... 💘
-- Mathematics 📚
 - Full Stack Web/Mobile Apps 🖥
 - Fashion/Streaming/Entertainment Development 🤹‍♂️
 - Cloud Computing/Serverless Architecture/SaaS ☁️
