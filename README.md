@@ -1,7 +1,7 @@
 ### Hey I'm Mark! 👋
 ![](https://komarev.com/ghpvc/?username=markymauro13&color=blueviolet)
 - Senior Computer Science Student @ Montclair State University 🦅 
-- ex dev intern @ Abercrombie & Fitch and FedEx💼
+- ex dev intern @ Abercrombie & Fitch and FedEx 💼
 
 ### I love ... 💘
 - Full Stack Web/Mobile Apps 🖥
