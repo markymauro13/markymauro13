@@ -2,5 +2,5 @@
 - Senior Computer Science Student @ Montclair State University 🦅 
 - 2x Software Engineer Intern 💼
 - Incoming Software Engineer @ tba...❓
-- Digital Nomad 🌎
+- Aspiring Digital Nomad 🌎
 - Future Solopreneur & SaaS Bootstrapper 🤑
