@@ -1,5 +1,5 @@
 ### Hey I'm Mark! 👋
-- Senior Computer Science Student @ Montclair State University 🦅 
+- Senior Computer Science Major @ Montclair State University 🦅 
 - 2x Software Engineer Intern 💼
 - Incoming Software Engineer @ tba...❓
 - Aspiring Digital Nomad 🌎
